@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python test.py --model dmmi_swin --swin_type base --dataset ref-zom --splitBy final --split test --test_parameter /path_to/trained_parameter --workers 0 --ddp_trained_weights --window12 --img_size 480

@@ -1,0 +1,17 @@
+.vscode
+.idea
+lib/__pycache__/*
+*.pkl
+*.json
+models/*
+bert/pytorch_model.bin
+*.jpg
+*.pth
+*.png
+vis*
+*.zip
+*.csv
+*.pyc
+*.so
+*.json
+*.p
